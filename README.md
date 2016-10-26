@@ -2,7 +2,7 @@
 This is a demo website. Any new design should meet the requirements. So check the requirements before making a new site. Additional information is also available named under content folder.
 
 ## This is the site layout.
-You can also additional information to the page, but you are not supposed to remove any one of these.
+You can also add additional information to the page, but you are not supposed to remove any one of these.
 
 1. Introduction
   1. 'SREE GARDENS' title.
