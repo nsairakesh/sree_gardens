@@ -8,7 +8,6 @@ You can also additional information to the page, but you are not supposed to rem
   1. 'SREE GARDENS' title.
   2. 'PLOT YOUR FUTURE' text.
   3. Full screen image.
-    * Make the headings bigger
 2. Amenities
  1. Roads*
  2. Water Managment*
@@ -21,5 +20,6 @@ You can also additional information to the page, but you are not supposed to rem
  1. India
  2. USA
  
- =Contains a  brief explanation text.
+ *Contains a  brief explanation text.
+ 
  Any other contents can be added with out deleting existing contant.
