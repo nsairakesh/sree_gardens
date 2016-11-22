@@ -1,6 +1,13 @@
 # Sree Gardens
 This is a demo website. Any new design should meet the requirements. So check the requirements before making a new site. Additional information is also available named under content folder.
 
+These are the current things that has to be done. Check off after completion.
+
+1. [x] Remove logo from the navigation and replace it with __SREE GARDENS__ text
+2. [ ] Insert the text from the content.md file at the amenities.
+3. [ ] Add style to the __SREE GARDENS__ in the navigation same properties as of the other links in the navigation.
+
+
 ## This is the site layout.
 You can also add additional information to the page, but you are not supposed to remove any one of these.
 
