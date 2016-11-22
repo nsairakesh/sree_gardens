@@ -1,5 +1,5 @@
 # Sree Gardens
-If you are visiting this page you can skip this part and read from __LAYOUT__
+If you are visiting this page for the first time you can skip this part and read from __LAYOUT__
 
 ##Current work progress
 These are the current things that has to be done. Check off after completion.
