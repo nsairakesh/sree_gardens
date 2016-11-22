@@ -42,4 +42,4 @@ You can also add additional information to the page, but you are not supposed to
  *Contains a  brief explanation text.
  
  Any other contents can be added with out deleting existing contant.
-View output [here] (http://htmlpreview.github.io/?https://github.com/nsairakesh/sree_gardens/blob/master/index.html)
+View output [here] (https://nsairakesh.github.io/sree_gardens/)
