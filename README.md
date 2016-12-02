@@ -1,5 +1,5 @@
 # Sree Gardens
-This is a website done for Sree Gardens Real Estate project. If you want to report any changes to the current website then report it [here](https://github.com/nsairakesh/sree_gardens/blob/master/Current_work.md).
+This is a website done for Sree Gardens Real Estate project. If you want to report any changes to the current website then report it [here](https://github.com/nsairakesh/sree_gardens/blob/master/Current_work.md) or create an issue.
 
 #Layout
  This is the website design layout. Additional information is also available named under [content.md](https://github.com/nsairakesh/sree_gardens/blob/master/contents.md).
