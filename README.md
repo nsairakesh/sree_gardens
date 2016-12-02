@@ -1,12 +1,5 @@
 # Sree Gardens
-If you are visiting this page for the first time you can skip this part and read from __LAYOUT__
 
-##Current work progress
-These are the current things that has to be done. Check off after completion.
-
-1. [x] Remove logo from the navigation and replace it with __SREE GARDENS__ text
-2. [ ] Insert the text from the content.md file at the amenities.
-3. [ ] Add style to the __SREE GARDENS__ in the navigation same properties as of the other links in the navigation.
 
 #Layout
 This is a demo website. Any new design should meet the requirements. So check the requirements before making a new site. Additional information is also available named under content.md.
@@ -41,5 +34,74 @@ You can also add additional information to the page, but you are not supposed to
  
  *Contains a  brief explanation text.
  
- Any other contents can be added with out deleting existing contant.
+## Acknowledgements: 
+ This project has drawn significant inspiration or outright code from other open source projects. We take this opportunity to thank these other communities, companies and individual developers for their hard work. These are list of technologies we have used so far. 
+ 
+ /*!
+ * animate.css -http://daneden.me/animate
+ * Version - 3.5.1
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2016 Daniel Eden
+ */
+ 
+ /*!
+ * Bootstrap v4.0.0-alpha.2 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+ 
+ /*!
+ * Name    : Just Another Parallax [Jarallax]
+ * Version : 1.7.1
+ * Author  : _nK https://nkdev.info
+ * GitHub  : https://github.com/nk-o/jarallax
+ */
+ 
+ //
+// SmoothScroll for websites v1.4.5 (Balazs Galambosi)
+// http://www.smoothscroll.net/
+//
+// Licensed under the terms of the MIT license.
+//
+
+/*!
+ * Default v2 
+ * Copyright 2016 Mobirise
+ */
+ 
+ /*!
+ * @fileOverview TouchSwipe - jQuery Plugin
+ * @version 1.6.18
+ *
+ * @author Matt Bryson http://www.github.com/mattbryson
+ * @see https://github.com/mattbryson/TouchSwipe-Jquery-Plugin
+ * @see http://labs.rampinteractive.co.uk/touchSwipe/
+ * @see http://plugins.jquery.com/project/touchSwipe
+ * @license
+ * Copyright (c) 2010-2015 Matt Bryson
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ *
+ */
+ 
+ /*
+    The MIT License (MIT)
+
+    Copyright (c) 2014 Dirk Groenen
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy of
+    this software and associated documentation files (the "Software"), to deal in
+    the Software without restriction, including without limitation the rights to
+    use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+    the Software, and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+*/
+
+/*! jQuery v1.11.2 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */
+ 
+ 
+ Any other contents can be added with out deleting existing content.
 View output [here] (https://nsairakesh.github.io/sree_gardens/)
