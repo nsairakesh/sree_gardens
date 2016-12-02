@@ -1,11 +1,10 @@
 # Sree Gardens
-
+This is a website done for Sree Gardens Realestate project. If you want to report any changes to the current website then report it [here](https://github.com/nsairakesh/sree_gardens/blob/master/Current_work.md).
 
 #Layout
-This is a demo website. Any new design should meet the requirements. So check the requirements before making a new site. Additional information is also available named under content.md.
+ This is the website design layout. Additional information is also available named under [content.md](https://github.com/nsairakesh/sree_gardens/blob/master/contents.md).
 
 ## This is the site layout.
-You can also add additional information to the page, but you are not supposed to remove any one of these.
 
 1. Introduction
   1. Transperent scroll-navigation with links.
@@ -15,20 +14,22 @@ You can also add additional information to the page, but you are not supposed to
  1. Roads*
  2. Water Managment*
  3. Security*
- 4. Plantation*
+ 4. Garden*
  5. Other*
 3. Plantation
   1. Description.
   2. Pictures of plants in the plot.*
   3. Pictures of plants on the side of the road.*
-4. About Us
+4. Services*
+5. Invest & Earn*
+6. About Us*
   1. PHILOSOPHY*
   2. Vision*
   3. Values*
   4. Mission*
   5. Management*
   4. 8 members with their bio*
-5. Contact
+7. Contact
  1. India
  2. USA
  
@@ -37,28 +38,28 @@ You can also add additional information to the page, but you are not supposed to
 ## Acknowledgements: 
  This project has drawn significant inspiration or outright code from other open source projects. We take this opportunity to thank these other communities, companies and individual developers for their hard work. These are list of technologies we have used so far. 
  
- /*!
+/*!
  * animate.css -http://daneden.me/animate
  * Version - 3.5.1
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
  * Copyright (c) 2016 Daniel Eden
- */
+*/
  
- /*!
+/*!
  * Bootstrap v4.0.0-alpha.2 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+*/
  
- /*!
+/*!
  * Name    : Just Another Parallax [Jarallax]
  * Version : 1.7.1
  * Author  : _nK https://nkdev.info
  * GitHub  : https://github.com/nk-o/jarallax
- */
+*/
  
- //
+//
 // SmoothScroll for websites v1.4.5 (Balazs Galambosi)
 // http://www.smoothscroll.net/
 //
@@ -70,7 +71,7 @@ You can also add additional information to the page, but you are not supposed to
  * Copyright 2016 Mobirise
  */
  
- /*!
+/*!
  * @fileOverview TouchSwipe - jQuery Plugin
  * @version 1.6.18
  *
@@ -103,5 +104,5 @@ You can also add additional information to the page, but you are not supposed to
 /*! jQuery v1.11.2 | (c) 2005, 2014 jQuery Foundation, Inc. | jquery.org/license */
  
  
- Any other contents can be added with out deleting existing content.
+
 View output [here] (https://nsairakesh.github.io/sree_gardens/)
